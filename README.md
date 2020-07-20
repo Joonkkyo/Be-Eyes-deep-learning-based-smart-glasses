@@ -34,7 +34,7 @@
 
 ### 2. Abstract
 
- 'Be Eyes' is a deep learning-based smart glass for people who are visually impaired. This project aims to develop smart glasses that recognize the surrounding objects and texts, and transmit them by voice so that blind people can safely live their daily lives. It has two main functions. 
+ 'Be Eyes' is a deep learning-based smart glasses for people who are visually impaired. This project aims to develop smart glasses that recognize the surrounding objects and texts, and transmit them by voice so that blind people can safely live their daily lives. It has two main functions. 
 
  First, 'Be Eyes' informs the information of the obstacle to people with visual impairment. Since the information of the obstacle is recognized, they can cope with the specific situation.(Ex: bollard, stairs, etc.)
 
