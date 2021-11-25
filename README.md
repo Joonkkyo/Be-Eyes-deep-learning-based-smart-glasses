@@ -59,7 +59,7 @@
 
 ```markdown
 학번 : 20143062
-역할 : 프로젝트 팀장 및 Data 처리 훈련, Object Detection & Tracking
+역할 : 프로젝트 팀장 및 Text Reading하기 위한 모션 인식 설정, TTS 기능 구현
 Email : byunghoonpark1005@gmail.com
 ```
 
@@ -89,7 +89,7 @@ Email : any218@kookmin.ac.kr
 
 ```markdown
 학번 : 20143068
-역할 : Text Reading하기 위한 모션 인식 설정, TTS 기능 구현
+역할 : Data 처리 훈련, Object Detection & Tracking
 Email : jkseo50@gmail.com
 ```
 
